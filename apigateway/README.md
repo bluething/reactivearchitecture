@@ -39,4 +39,5 @@ There are variation for this pattern
 
 #### Reference
 
-[Pattern: API Gateway / Backends for Frontends](https://microservices.io/patterns/apigateway.html)
+[Pattern: API Gateway / Backends for Frontends](https://microservices.io/patterns/apigateway.html)  
+[Embracing the Differences : Inside the Netflix API Redesign](https://netflixtechblog.com/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d)
